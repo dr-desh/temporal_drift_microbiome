@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.11.4
+scikit-learn==1.4.2
+statsmodels==0.14.6
+matplotlib==3.8.4
+seaborn==0.13.2
+shap==0.44.1
+xgboost==3.2.0
+torch==2.2.0
+umap-learn==0.5.6
+neuroCombat==0.2.12
+matplotlib-venn==1.1.2
+openpyxl==3.1.5

@@ -1,0 +1,17 @@
+# Outputs (generated data, figures, models)
+outputs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# R workspace files
+*.RData
+*.RDataTmp
+.Rhistory
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Copyrighted external data (not redistributable)
+Table 1.XLSX
