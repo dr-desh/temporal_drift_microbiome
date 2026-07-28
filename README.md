@@ -108,5 +108,5 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE).
 ## Contact
 
 Sachin S Desh (corresponding author)  
-ICMR-National Institute of Child Health and Development Research, New Delhi  
+ICMR National Institute of Child Health Research, New Delhi  
 <!-- drsachinsdesh@gmail.com -->
